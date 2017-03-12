@@ -88,7 +88,8 @@ The followings are some examples. As you can see in the example 2, there exists 
 
 > Provide a link to your final video output. Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
 
-Here is the [link](https://youtu.be/f4AJoeI5_3c) for the final results (combined with post-processing as described below)
+Following is the final result (combined with post-processing as described below)
+[![link](video-pic.png)](https://youtu.be/f4AJoeI5_3c)
 
 ---
 ### 6. Further Post-processing
